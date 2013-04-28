@@ -1,5 +1,6 @@
 Changes
 lib/CPAN/Testers/WWW/Wiki.pm
+LICENSE
 Makefile.PL
 MANIFEST
 META.json
@@ -349,4 +350,5 @@ vhost/html/js/tiny_mce/utils/validate.js
 vhost/html/js/wiki.js
 vhost/toolkit/rssfeeds.pl
 vhost/toolkit/rssfeeds.sh
+vhost/toolkit/sumhits.pl
 vhost/vhosts.conf
