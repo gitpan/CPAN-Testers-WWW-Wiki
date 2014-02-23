@@ -15,9 +15,9 @@ WriteMakefile(
     PREREQ_PM           => {
 
         # prereqs
-        'Labyrinth'                         => '5.16',
-        'Labyrinth::Plugin::Core'           => '5.10',
-        'Labyrinth::Plugin::Wiki'           => '1.02',
+        'Labyrinth'                         => '5.20',
+        'Labyrinth::Plugin::Core'           => '5.14',
+        'Labyrinth::Plugin::Wiki'           => '1.04',
         'Labyrinth::DIUtils::ImageMagick'   => '5.04',
 
         # build/test prereqs
